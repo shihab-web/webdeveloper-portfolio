@@ -113,4 +113,17 @@ banner .profile-pic {
     color: #757575;
     text-align: center;
     font-size: 18px;
+    line-height: 30px; 
+}
+/* main section styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
