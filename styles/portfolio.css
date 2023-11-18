@@ -214,4 +214,12 @@ main section {
 .downlaod-cv{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 110px;
+}
+
+/*footer styles  */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 230px;
 }
